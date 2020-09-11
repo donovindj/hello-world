@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+
 Hi, my name is Donovin!
 
 I am currently a student at UTSA, majoring in Information Systems.
